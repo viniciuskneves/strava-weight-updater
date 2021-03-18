@@ -1,6 +1,5 @@
 {
   "name": "strava-weight-updater",
-  "version": "0.1.0",
   "bin": {
     "strava-weight-updater": "bin/strava-weight-updater.js"
   },
