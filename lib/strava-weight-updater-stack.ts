@@ -7,8 +7,6 @@ export class StravaWeightUpdaterStack extends cdk.Stack {
   constructor(scope: cdk.App, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
 
-    console.log('Environment', process.env);
-
     const lambda = new NodejsFunction(this, 'Lambda', {
       entry: './lambda/index.ts',
       environment: {
