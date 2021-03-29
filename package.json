@@ -14,7 +14,7 @@
     "@aws-cdk/assert": "1.93.0",
     "@types/aws-lambda": "8.10.72",
     "@types/jest": "26.0.21",
-    "@types/node": "12.20.6",
+    "@types/node": "12.20.7",
     "aws-cdk": "1.94.1",
     "esbuild": "0.9.3",
     "gitmoji-cli": "3.3.1",
