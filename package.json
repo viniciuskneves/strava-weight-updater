@@ -14,7 +14,7 @@
     "@aws-cdk/assert": "1.93.0",
     "@types/aws-lambda": "8.10.72",
     "@types/jest": "26.0.21",
-    "@types/node": "12.20.6",
+    "@types/node": "12.20.7",
     "aws-cdk": "1.94.1",
     "esbuild": "0.9.3",
     "gitmoji-cli": "3.3.1",
@@ -22,7 +22,7 @@
     "jest": "26.6.3",
     "ts-jest": "26.5.4",
     "ts-node": "9.1.1",
-    "typescript": "4.2.3"
+    "typescript": "4.2.4"
   },
   "dependencies": {
     "@aws-cdk/aws-apigatewayv2": "1.93.0",
