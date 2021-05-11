@@ -4,11 +4,11 @@
     "strava-weight-updater": "bin/strava-weight-updater.js"
   },
   "scripts": {
+    "prepare": "husky install",
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
-    "cdk": "cdk",
-    "prepare": "husky install"
+    "cdk": "cdk"
   },
   "devDependencies": {
     "@aws-cdk/assert": "1.93.0",
