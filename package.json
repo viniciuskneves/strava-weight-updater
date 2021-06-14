@@ -15,7 +15,7 @@
     "@types/aws-lambda": "8.10.77",
     "@types/jest": "26.0.23",
     "@types/node": "12.20.15",
-    "aws-cdk": "1.107.0",
+    "aws-cdk": "1.108.1",
     "esbuild": "0.12.8",
     "gitmoji-cli": "4.1.0",
     "husky": "6.0.0",
